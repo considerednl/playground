@@ -1,2 +1,2 @@
-# playground
-A playground for my HTML CSS experiments
+# Considered Playground
+A space to play around with HTML and CSS.
